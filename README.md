@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![ViewCount](http://bit.ly/adrenak-github-visits)
 <!--
 **adrenak/adrenak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
