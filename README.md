@@ -22,7 +22,7 @@ UniVoice has some big improvements lined up, this includes:
 - 📦 Most, if not all of the UniVoice related repos moving into the core package, so that you don't have to worry about dependencies. Modules would be activated using scripting define symbols in Unity
 - 📱A much better sample scene
 - ✍️ Better documentation and maybe even some video tutorials
-- 🗣️ Audio compression, echo cancellation, and maybe even compression (we'll see)
+- 🗣️ Audio compression, echo cancellation, and maybe even encryption (we'll see)
 - 🛜 Implementations for Network For GameObjects, PUN2 and maybe also com.unity.webrtc
 - 🖥️ Making it more suitable for dedicated server environments. UniVoice was made with peer-to-peer in mind. 
 
