@@ -1,32 +1,18 @@
 ### Hi there 👋
 
-Chances are, you're here from my UniVoice repos. Expand the section below for more info.
-
 <details>
-<summary><h3>🗣️🌐🔊 UniVoice stuff</h3></summary>  
-  
-I'm still working on unifying UniVoice and making it easier to use. To start, I would recommend going through the following repos in my profile:
-- 🗣️univoice: the core repo.
-- 📱 univoice-samples: a sample chat app made using univoice. This repo currently uses   
-- 🎤 univoice-unimic-input: the repo for capturing audio from Microphones, the most common use case  
-- 🔉 univoice-audiosource-output: the repo for playing audio using an AudioSource, again the most common usage.  
-- 📶 univoice-telepathy-network: a repo for local/WLAN networking for univoice. Basically, you can talk within a local network. Note that again with mobile apps, hosting, network discovery and connecting have some caveats. 
-- 🖥️ univoice-mirror-network: a repo for Mirror based networking. If your game or app uses Mirror, the integration is _very_ simple and also runs with dedicated servers.  
+<summary><h3>🗣️🌐🔊 UniVoice updates</h3></summary>  
 
-Note that:  
-- ❌ univoice-airpeer-network is not production suitable. Airpeer, the underlying library is not IL2CPP compatible. It also uses some old WebRTC code where establishing connection tends to fail a lot.
-- ❌ airsignal and airpeer are archived repos. Avoid developing with them unless you know your usecase and their limitations well.
-- ⚠️ univoice-pun2-network is not production suitable either, but you are welcome to modify it. The core issue (IIRC) was that Photon throttles the amount of data you can send through some custom channels. Since UniVoice doesn't have any sort of audio compression, the size tends to cross the limits very quickly. It did work fine for 2 or 3 participants.
+All previously [separate UniVoice repositories](https://github.com/adrenak?tab=repositories&q=univoice&type=&language=&sort=) have been moved to the [main UniVoice repository](https://github.com/adrenak/univoice) in efforts of making it a mono repo and unifying all out of the box UniVoice features. This means no more dealing with a big list of package dependencies!  
+  
+Mirror support is available and Opus codec has been added via [Concentus-Unity](https://www.github.com/adrenak/concentus-unity).  
+  
+The archived repositories only work with UniVoice v3 and not v4. Old network implementations for Telepathy, Airpeer and PUN2 are currently unavailable as they need to be upgraded to v4.  
 
 UniVoice has some big improvements lined up, this includes:
-- 📦 Most, if not all of the UniVoice related repos moving into the core package, so that you don't have to worry about dependencies. Modules would be activated using scripting define symbols in Unity
-- 📱A much better sample scene
 - ✍️ Better documentation and maybe even some video tutorials
-- 🗣️ Audio compression, echo cancellation, and maybe even encryption (we'll see)
+- 🗣️ Echo cancellation
 - 🛜 Implementations for Network For GameObjects, PUN2 and maybe also com.unity.webrtc
-- 🖥️ Making it more suitable for dedicated server environments. UniVoice was made with peer-to-peer in mind. 
-
-In short, UniVoice is undergoing a lot of changes soon. Those using the repos already would be protected from these changes. It's likely with UniVoice v4, it'll begin a new life with these improvements coming in one by one.
 
 Thanks for the continued support! If you are joining or have been part of the UniVoice journey, give it a Github star ⭐!
   
