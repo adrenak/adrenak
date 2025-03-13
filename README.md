@@ -4,6 +4,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/vatsalambastha/)  
 
+Regular UniVoice news will be available [on my blog]([url](https://blog.vatsalambastha.com/search/label/univoice))
+
 ### 🗣️🌐🔊 UniVoice updates  
 __Major changes have happened between UniVoice v3 and v4__
 * All previously [separate UniVoice repositories](https://github.com/adrenak?tab=repositories&q=univoice&type=&language=&sort=) have been archived and moved to the [main UniVoice repository](https://github.com/adrenak/univoice) in efforts of making it a mono repo. This means no more dealing with a big list of package dependencies (and their dependencies)!  
