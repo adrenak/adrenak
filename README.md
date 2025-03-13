@@ -4,7 +4,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/vatsalambastha/)  
 
-Regular UniVoice news will be available [on my blog]([url](https://blog.vatsalambastha.com/search/label/univoice))
+Regular UniVoice news will be available [on my blog here](https://blog.vatsalambastha.com/search/label/univoice)
 
 ### 🗣️🌐🔊 UniVoice updates  
 __Major changes have happened between UniVoice v3 and v4__
