@@ -2,7 +2,9 @@
 
 [![Adrenak's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrenak&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Regular UniVoice news will be available [on my blog here](https://blog.vatsalambastha.com/search/label/univoice) if you want to be notified, consider subscribing to [my newsletter](https://vatsalambastha.kit.com/newsletter)
+Regular UniVoice news will be available [on my blog here](https://blog.vatsalambastha.com/search/label/univoice). 
+
+[Join the UniVoice Discord server](https://discord.gg/Un6Y2sQqqe)
 
 ### 🗣️🌐🔊 UniVoice updates  
 __Major changes have happened between UniVoice v3 and v4__
